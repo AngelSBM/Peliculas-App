@@ -1,6 +1,6 @@
-# PeliculasApp
+# PeliculasApp 📽
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+With this app you can see infomration, casts, rates and a lot of other things of 99% of the movies available today in day. Check it out!
 
 ## Development server
 
