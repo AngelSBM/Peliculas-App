@@ -1,0 +1,13 @@
+h3 {
+    font-size: 15px;
+}
+
+.poster {
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(175, 70, 70, 0.5);
+    margin: 5px;
+}
+
+img {
+    cursor: pointer;
+}
