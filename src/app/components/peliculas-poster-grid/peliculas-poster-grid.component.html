@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col-md-3 mb-5 col-sm-6 animate__animated animate__fadeIn" *ngFor="let movie of movies">
+    <div class="col-md-3 mb-5 col-6 animate__animated animate__fadeIn" *ngFor="let movie of movies">
 
         <img [src]="movie.poster_path | poster" 
              [routerLink]="['/pelicula', movie.id]"

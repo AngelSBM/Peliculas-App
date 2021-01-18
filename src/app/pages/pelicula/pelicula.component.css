@@ -1,0 +1,23 @@
+@media screen and (max-width: 480px){
+    .pelicula-container{
+        margin-top: 2rem;
+    }
+
+    .image-container{
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    
+    .image-container img {
+        width: 75%;
+    }
+
+    .pelicula-info-container{
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+
+    .pelicula-sipnosis{
+        text-align: left;
+    }
+}

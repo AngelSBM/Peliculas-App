@@ -1,13 +1,10 @@
-<nav class="navbar navbar-expand-sm ">
+ <nav class="navbar navbar-collapse navbar-expand ">
     <div class="container-fluid">
       <a class="navbar-brand" routerLink="/home">Películas</a>
      
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          
-        
-        </ul>
+      <div class="search-container">
         <div class="d-flex">
+
           <input
                 #txtBuscar
                 (keyup.enter)=" buscarPelicula( txtBuscar.value ) " 
@@ -21,4 +18,3 @@
     </div>
   </nav>
 
-  
